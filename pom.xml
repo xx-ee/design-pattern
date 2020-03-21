@@ -13,6 +13,7 @@
         <module>priciple-interface-segregation</module>
         <module>priciple-dependence-inversion</module>
         <module>priciple-liskov</module>
+        <module>priciple-ocp</module>
     </modules>
 
 
