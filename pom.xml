@@ -11,6 +11,7 @@
     <modules>
         <module>principle-single-responsibility</module>
         <module>priciple-interface-segregation</module>
+        <module>priciple-dependence-inversion</module>
     </modules>
 
 
