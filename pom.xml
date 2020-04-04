@@ -15,6 +15,7 @@
         <module>priciple-liskov</module>
         <module>priciple-ocp</module>
         <module>principle-demeter</module>
+        <module>design-singleton</module>
     </modules>
 
 
