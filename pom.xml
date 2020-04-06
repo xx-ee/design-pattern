@@ -16,6 +16,7 @@
         <module>priciple-ocp</module>
         <module>principle-demeter</module>
         <module>design-singleton</module>
+        <module>design-factory</module>
     </modules>
 
 
