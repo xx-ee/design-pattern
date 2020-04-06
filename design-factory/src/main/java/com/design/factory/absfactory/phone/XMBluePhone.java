@@ -1,8 +1,8 @@
-package com.design.factory.factorymethod.phone;
+package com.design.factory.absfactory.phone;
 
 /**
  * @ClassName: XiaomiPhone
- * @Description: 厂方法模式（核心，将实例化对象推迟到子类）
+ * @Description: 抽象工厂模式
  *
  * @Author: xiedong
  * @Date: 2020/4/5 18:19
